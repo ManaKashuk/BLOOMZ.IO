@@ -29,7 +29,7 @@ export default function Home() {
             Bioactive Library for Mass Spectrometry Instant Optimization
           </p>
           <h2 className="mb-8 text-5xl md:text-5xl font-bold leading-tight">
-            Mass Spectrometry Tools Built for Under-Resourced Labs.
+            Mass Spectrometry AI-Assistant Built for Under-Resourced Labs.
           </h2>
           <p className="mb-8 text-xl leading-relaxed text-[#3f4d43]">
             A smart bioactive compound library designed to help researchers
