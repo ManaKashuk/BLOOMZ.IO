@@ -25,7 +25,7 @@ export default function Home() {
 
       <section className="grid md:grid-cols-2 gap-12 px-6 md:px-12 py-16 md:py-24 items-center">
         <div>
-          <p className="mb-4 text-sm font-semibold uppercase tracking-[0.25em] text-[#2f5f2a]">
+          <p className="mb-6 text-sm font-semibold uppercase tracking-[0.25em] text-[#2f5f2a]">
             Bioactive Library for Mass Spectrometry Instant Optimization
           </p>
 
