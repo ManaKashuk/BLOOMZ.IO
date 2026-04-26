@@ -29,10 +29,6 @@ export default function Home() {
             Bioactive Library for Mass Spectrometry Instant Optimization
           </p>
 
-          <h1 className="mb-6 text-5xl md:text-7xl font-bold leading-tight">
-            BLOOMZ.io
-          </h1>
-
           <p className="mb-8 text-xl leading-relaxed text-[#3f4d43]">
             A smart bioactive compound library designed to help researchers
             match mass spectrometry data to known plant compounds faster.
