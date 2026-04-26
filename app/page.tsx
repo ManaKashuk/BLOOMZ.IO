@@ -25,10 +25,12 @@ export default function Home() {
 
       <section className="grid md:grid-cols-2 gap-12 px-6 md:px-12 py-16 md:py-24 items-center">
         <div>
-          <p className="mb-6 text-sm font-semibold uppercase tracking-[0.25em] text-[#2f5f2a]">
+          <p className="mb-4 text-sm font-semibold uppercase tracking-[0.25em] text-[#2f5f2a]">
             Bioactive Library for Mass Spectrometry Instant Optimization
           </p>
-
+          <h1 className="mb-6 text-5xl md:text-7xl font-bold leading-tight">
+            Mass Spectrometry Tools Built for Under-Resourced Labs.
+          </h1>
           <p className="mb-8 text-xl leading-relaxed text-[#3f4d43]">
             A smart bioactive compound library designed to help researchers
             match mass spectrometry data to known plant compounds faster.
