@@ -28,7 +28,7 @@ export default function Home() {
           <p className="mb-4 text-sm font-semibold uppercase tracking-[0.25em] text-[#2f5f2a]">
             Bioactive Library for Mass Spectrometry Instant Optimization
           </p>
-          <h2 className="mb-6 text-5xl md:text-5xl font-bold leading-tight">
+          <h2 className="mb-8 text-5xl md:text-5xl font-bold leading-tight">
             Mass Spectrometry Tools Built for Under-Resourced Labs.
           </h2>
           <p className="mb-8 text-xl leading-relaxed text-[#3f4d43]">
