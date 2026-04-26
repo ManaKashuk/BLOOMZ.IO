@@ -9,8 +9,8 @@ export default function Home() {
         <Image
           src="/assets/logos/bloomz-logo-full.png"
           alt="BLOOMZ.io logo"
-          width={210}
-          height={70}
+          width={300}
+          height={100}
           priority
         />
 
